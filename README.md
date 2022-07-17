@@ -1,12 +1,12 @@
 
-# Animated waiting fingers preloader 
+# Animated waiting fingers preloader
+
 Beautiful impatient waiting fingers animation prealoader with pure html and css
-## #html #css
 
+![Alt Text](https://raw.githubusercontent.com/AyushBawane/waiting-fingers-html-preloader/main/waitingFinger.gif)
 
+### #HTML #CSS
+## Authors
 
-![](https://github.com/AyushBawane/waiting-fingers-html-preloader/blob/main/waitingFinger.gif?raw=true)
-## Author
-
-- [@AyushBawane](https://github.com/AyushBawane)
+- [@ayushBawane](https://www.github.com/AyushBawane)
 
